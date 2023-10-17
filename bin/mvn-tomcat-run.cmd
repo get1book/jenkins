@@ -1,0 +1,1 @@
+.\mvnw clean package -Dmaven.war.skip -DfinalName=zrlog && cd web\src\main\ && bin\start.bat
